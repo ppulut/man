@@ -1,0 +1,30 @@
+1. Róznica pomiędzy ssh i scp
+
+ssh - służy do zdalnej pracy z komputerem
+
+scp - Umożliwia ono kopiowanie plików pomiędzy
+komputerem lokalnym, a zdalnym.
+
+2. Czy ssh da sie skopiowac plik albo katalog
+
+
+3. Czym są flagi jcvf
+j - używa do pakowania narzędzia bzip2
+c - tworzy archiwum
+v - wypisuje nazwy zarchiwizowanych plików
+f - określa nazwę pliku archiwum tar
+
+
+
+4. 2 fukcje zalodawania modulu do jądra (insmod i modprobe)
+5. Różnicę między poleceniami insmod i modprobe
+6. Opisać funkcję printk.
+
+7. Alokator strefowy czy zarzadza pamiecia fizyczna - tak
+8. Funkcje do zarządzania pamięcią -
+
+9. Co to DMA - obszar gdzie mogą być tworzone bufory dla urządzeń peryferyjnych wykorzystujących transmisję dma
+
+10. Różnice pomiędzy alokatorami
+strefowy przydziala pamięć
+plastrowy używa tych pamięci podręcznym i mempool
